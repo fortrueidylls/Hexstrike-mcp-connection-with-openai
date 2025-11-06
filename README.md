@@ -120,6 +120,4 @@ Przykładowe subdomeny:
     staging.example.com
     shop.example.com
 
-...i wiele, wiele innych (większość to generowane testowo/"noise").
 
-Czy chcesz rozszerzyć badanie (np. o sprawdzenie podatności, brute-force katalogów/plików, analizę wybranych subdomen)? Napisz, które elementy chcesz pogłębić lub wypisz, które subdomeny lub usługi Cię szczególnie interesują!
