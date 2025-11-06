@@ -43,12 +43,12 @@ Dodaj nowy serwer MCP podając URL adaptera, np.:
 
 http://url_z_ngroka/mcp
 
-(lub adres z ngroka, jeśli łączysz się zdalnie)
+
 
 Zapisz.
-Przykład użycia (przepływ działania)
+Przykład użycia 
 
-W interfejsie OpenAI, wybierz swojego agenta/utility.
+W interfejsie OpenAI, wybierz chat.
 Wpisz zapytanie, np.:
 
 Przeskanuj domenę example.com: poproszę otwarte porty + subdomeny.
