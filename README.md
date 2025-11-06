@@ -2,7 +2,7 @@ Wymagania wstępne
 
 HexStrike MCP Backend (hexstrike-ai - uruchomiony serwer hexstrike_server.py)
 Python 3.9+ (adapter MCP)
-Ngrok (opcjonalnie, jeśli chcesz wystawić serwer poza localhost)
+Ngrok 
 OpenAI Agent Builder z dostępem do narzędzi MCP
 Uruchamianie krok po kroku
 
